@@ -10,10 +10,7 @@ keywords:
   - argocd
   - gitops
 maintainers:
-  - name: alexec
-  - name: alexmt
-  - name: jessesuen
-  - name: seanson
+  - name: sauron
 dependencies:
   - name: redis-ha
     version: 4.12.17
